@@ -4,9 +4,9 @@
   "description": "npm link with --save",
   "main": "index.js",
   "bin": {
-    "npm-link-save": "index.js",
-    "npm-link": "index.js",
-    "nls": "index.js"
+    "npm-save-ensured": "index.js",
+    "npm-save": "index.js",
+    "npms": "index.js"
   },
   "files": [],
   "repository": "laggingreflex/npm-link-save"
